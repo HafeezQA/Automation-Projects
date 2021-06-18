@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-26T14:47:10 EDT" name="Default suite" finished-at="2021-04-26T14:47:21 EDT" duration-ms="10694">
+    <groups>
+    </groups>
+    <test started-at="2021-04-26T14:47:10 EDT" name="Default test" finished-at="2021-04-26T14:47:21 EDT" duration-ms="10694">
+      <class name="com.testng.ExtentReport">
+        <test-method is-config="true" signature="config()[pri:0, instance:com.testng.ExtentReport@481a996b]" started-at="2021-04-26T14:47:10 EDT" name="config" finished-at="2021-04-26T14:47:11 EDT" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="Extrepo()[pri:0, instance:com.testng.ExtentReport@481a996b]" started-at="2021-04-26T14:47:11 EDT" name="Extrepo" finished-at="2021-04-26T14:47:21 EDT" duration-ms="9855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Extrepo -->
+      </class> <!-- com.testng.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
